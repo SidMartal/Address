@@ -1,9 +1,10 @@
-{
-  "address1": {
-    "line1": "123 Main Street",
-    "line2": "Apt 4B",
-    "city": "Springfield",
-    "state": "IL",
-    "postalCode": "62701",
-    "country": "USA"
-  }
+[
+  {
+    "Addresses": [
+      {
+        "Address": "370 S Dogwood St",
+        "Community": "Campbell River"
+      }
+    ],
+    "Community": "Campbell River"
+  },
