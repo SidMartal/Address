@@ -1,10 +1,68 @@
 [
   {
-    "Addresses": [
-      {
-        "Address": "370 S Dogwood St",
-        "Community": "Campbell River"
-      }
-    ],
-    "Community": "Campbell River"
+    "address1": {
+      "street": "123 Maple Street",
+      "address2": [
+        {
+          "type": "Apartment",
+          "occupant": "John Doe",
+          "unitNumber": "101"
+        },
+        {
+          "type": "Apartment",
+          "occupant": "Jane Smith",
+          "unitNumber": "102"
+        },
+        {
+          "type": "Apartment",
+          "occupant": "Alex Johnson",
+          "unitNumber": "103"
+        }
+      ]
+    }
   },
+  {
+    "address1": {
+      "street": "101 Pine Lane",
+      "address2": [
+        {
+          "type": "Unit",
+          "occupant": "Emily Green",
+          "unitNumber": "405"
+        },
+        {
+          "type": "Unit",
+          "occupant": "James Black",
+          "unitNumber": "406"
+        },
+        {
+          "type": "Unit",
+          "occupant": "Sophia Brown",
+          "unitNumber": "407"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "202 Cedar Court",
+      "address2": [
+        {
+          "type": "Bungalow",
+          "occupant": "Anna Moore",
+          "unitNumber": "6"
+        },
+        {
+          "type": "Bungalow",
+          "occupant": "David Clark",
+          "unitNumber": "7"
+        },
+        {
+          "type": "Bungalow",
+          "occupant": "Michael Stone",
+          "unitNumber": "8"
+        }
+      ]
+    }
+  }
+]
