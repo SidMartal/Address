@@ -1,22 +1,10 @@
 [
   {
     "address1": {
-      "street": "123 Maple Street",
+      "street": "370 S Dogwood St",
       "address2": [
         {
-          "type": "Apartment",
-          "occupant": "John Doe",
-          "unitNumber": "101"
-        },
-        {
-          "type": "Apartment",
-          "occupant": "Jane Smith",
-          "unitNumber": "102"
-        },
-        {
-          "type": "Apartment",
-          "occupant": "Alex Johnson",
-          "unitNumber": "103"
+          "unitNumber": "Campbell River"
         }
       ]
     }
@@ -26,19 +14,7 @@
       "street": "101 Pine Lane",
       "address2": [
         {
-          "type": "Unit",
-          "occupant": "Emily Green",
           "unitNumber": "405"
-        },
-        {
-          "type": "Unit",
-          "occupant": "James Black",
-          "unitNumber": "406"
-        },
-        {
-          "type": "Unit",
-          "occupant": "Sophia Brown",
-          "unitNumber": "407"
         }
       ]
     }
@@ -48,19 +24,287 @@
       "street": "202 Cedar Court",
       "address2": [
         {
-          "type": "Bungalow",
-          "occupant": "Anna Moore",
           "unitNumber": "6"
-        },
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "46360 Airport Rd",
+      "address2": [
         {
-          "type": "Bungalow",
-          "occupant": "David Clark",
-          "unitNumber": "7"
-        },
+          "unitNumber": "Chilliwack"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "2500 Cliffe Ave",
+      "address2": [
         {
-          "type": "Bungalow",
-          "occupant": "Michael Stone",
-          "unitNumber": "8"
+          "unitNumber": "Courtenay"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "5785 Duncan St",
+      "address2": [
+        {
+          "unitNumber": "Duncan"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "2080 Labieux Rd",
+      "address2": [
+        {
+          "unitNumber": "Nanaimo"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "4885 Cherry Creek Rd",
+      "address2": [
+        {
+          "unitNumber": "Port Alberni"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "2217 Mine Rd",
+      "address2": [
+        {
+          "unitNumber": "Port McNeill"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "7077 Duncan St",
+      "address2": [
+        {
+          "unitNumber": "Powell River"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "1229 Oceanview Dr",
+      "address2": [
+        {
+          "unitNumber": "Daajing Giids"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "42000 Loggers Ln",
+      "address2": [
+        {
+          "unitNumber": "Squamish"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "10428 153rd St",
+      "address2": [
+        {
+          "unitNumber": "Surrey"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "865 Hornby St",
+      "address2": [
+        {
+          "unitNumber": "Vancouver"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "183 Hwy 16 W",
+      "address2": [
+        {
+          "unitNumber": "Burns Lake"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "9000 17th St",
+      "address2": [
+        {
+          "unitNumber": "Dawson Creek"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "6100 Alaska Hwy, Mi 301",
+      "address2": [
+        {
+          "unitNumber": "Fort Nelson"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "2537 - 2539 Stones Bay Rd",
+      "address2": [
+        {
+          "unitNumber": "Fort St. James"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "10003 110th Ave",
+      "address2": [
+        {
+          "unitNumber": "Fort St. John"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "2210 Highway 62",
+      "address2": [
+        {
+          "unitNumber": "Hazelton *"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "3400 11th St",
+      "address2": [
+        {
+          "unitNumber": "Houston *"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "1 Cicada Rd",
+      "address2": [
+        {
+          "unitNumber": "Mackenzie"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "1011 4th Ave",
+      "address2": [
+        {
+          "unitNumber": "Prince George"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "3333 Tatlow Rd North",
+      "address2": [
+        {
+          "unitNumber": "Smithers"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "200 - 5220 Keith Ave",
+      "address2": [
+        {
+          "unitNumber": "Terrace"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "1560 Hwy 16 E",
+      "address2": [
+        {
+          "unitNumber": "Vanderhoof"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "300 Cariboo Hwy 97",
+      "address2": [
+        {
+          "unitNumber": "100 Mile House"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "2582 Stum Lake Rd",
+      "address2": [
+        {
+          "unitNumber": "Alexis Creek"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "845 Columbia Ave",
+      "address2": [
+        {
+          "unitNumber": "Castlegar"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "687 Yellowhead South Hwy 5",
+      "address2": [
+        {
+          "unitNumber": "Clearwater"
+        }
+      ]
+    }
+  },
+  {
+    "address1": {
+      "street": "100 N Cranbrook St",
+      "address2": [
+        {
+          "unitNumber": "Cranbrook"
         }
       ]
     }
