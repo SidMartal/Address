@@ -113,5 +113,10 @@
     "ministry": {
       "parent": "Ministry of Water, Land and Resource Stewardship"
     }
+  },
+   {
+    "ministry": {
+      "parent": "Office of the Premier"
+    }
   }
 ]
