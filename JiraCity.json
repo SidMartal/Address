@@ -1,0 +1,527 @@
+[
+    {
+        "City":"VICTORIA"
+    },
+    {
+        "City":"SAANICH"
+    },
+    {
+        "City":"COURTENAY"
+    },
+    {
+        "City":"DUNCAN"
+    },
+    {
+        "City":"NANAIMO"
+    },
+    {
+        "City":"POWELL RIVER"
+    },
+    {
+        "City":"VANCOUVER"
+    },
+    {
+        "City":"COQUITLAM"
+    },
+    {
+        "City":"PENTICTON"
+    },
+    {
+        "City":"ALLISON PASS"
+    },
+    {
+        "City":"MAPLE RIDGE"
+    },
+    {
+        "City":"CHILLIWACK"
+    },
+    {
+        "City":"VERNON"
+    },
+    {
+        "City":"LUMBY"
+    },
+    {
+        "City":"OLIVER"
+    },
+    {
+        "City":"KAMLOOPS"
+    },
+    {
+        "City":"WELLS"
+    },
+    {
+        "City":"NAZKO"
+    },
+    {
+        "City":"QUESNEL"
+    },
+    {
+        "City":"WILLIAMS LAKE"
+    },
+    {
+        "City":"BALFOUR"
+    },
+    {
+        "City":"NELSON"
+    },
+    {
+        "City":"SALMO CRESTON SUMMIT"
+    },
+    {
+        "City":"ROSSLAND"
+    },
+    {
+        "City":"INVERMERE"
+    },
+    {
+        "City":"CRANBROOK"
+    },
+    {
+        "City":"JAFFRAY"
+    },
+    {
+        "City":"CRAWFORD BAY"
+    },
+    {
+        "City":"HUTDA LAKE"
+    },
+    {
+        "City":"SLIM CREEK"
+    },
+    {
+        "City":"PRINCE GEORGE"
+    },
+    {
+        "City":"FORT ST JAMES"
+    },
+    {
+        "City":"CHARLIE LAKE"
+    },
+    {
+        "City":"DAWSON CREEK"
+    },
+    {
+        "City":"FORT ST JOHN"
+    },
+    {
+        "City":"FORT NELSON"
+    },
+    {
+        "City":"PRINCE RUPERT"
+    },
+    {
+        "City":"SMITHERS"
+    },
+    {
+        "City":"ANAHIM LAKE"
+    },
+    {
+        "City":"HOPE"
+    },
+    {
+        "City":"NEW WESTMINSTER"
+    },
+    {
+        "City":"TERRACE"
+    },
+    {
+        "City":"CAMPBELL RIVER"
+    },
+    {
+        "City":"DELTA"
+    },
+    {
+        "City":"DEASE LAKE"
+    },
+    {
+        "City":"MERRITT"
+    },
+    {
+        "City":"UCLUELET"
+    },
+    {
+        "City":"SURREY"
+    },
+    {
+        "City":"GOLD RIVER"
+    },
+    {
+        "City":"SANDSPIT"
+    },
+    {
+        "City":"SPARWOOD"
+    },
+    {
+        "City":"BURNS LAKE"
+    },
+    {
+        "City":"BURNABY"
+    },
+    {
+        "City":"SQUAMISH"
+    },
+    {
+        "City":"SICAMOUS"
+    },
+    {
+        "City":"GRAND FORKS"
+    },
+    {
+        "City":"MACKENZIE"
+    },
+    {
+        "City":"SECHELT"
+    },
+    {
+        "City":"MCBRIDE"
+    },
+    {
+        "City":"PORT MCNEILL"
+    },
+    {
+        "City":"CHETWYND"
+    },
+    {
+        "City":"VANDERHOOF"
+    },
+    {
+        "City":"HOUSTON"
+    },
+    {
+        "City":"CLEARWATER"
+    },
+    {
+        "City":"CRESTON"
+    },
+    {
+        "City":"REVELSTOKE"
+    },
+    {
+        "City":"FERNIE"
+    },
+    {
+        "City":"KELOWNA"
+    },
+    {
+        "City":"WHITE ROCK"
+    },
+    {
+        "City":"COLWOOD"
+    },
+    {
+        "City":"PORT CLEMENTS"
+    },
+    {
+        "City":"100 MILE HOUSE"
+    },
+    {
+        "City":"DAAJING GIIDS (QUEEN CHARLOTTE)"
+    },
+    {
+        "City":"TRAIL"
+    },
+    {
+        "City":"LILLOOET"
+    },
+    {
+        "City":"WEST KELOWNA"
+    },
+    {
+        "City":"PORT ALBERNI"
+    },
+    {
+        "City":"ASHCROFT"
+    },
+    {
+        "City":"ESQUIMALT"
+    },
+    {
+        "City":"NORTH VANCOUVER"
+    },
+    {
+        "City":"ABBOTSFORD"
+    },
+    {
+        "City":"PORT HARDY"
+    },
+    {
+        "City":"LANGLEY"
+    },
+    {
+        "City":"KITIMAT"
+    },
+    {
+        "City":"PORT MOODY"
+    },
+    {
+        "City":"MISSION"
+    },
+    {
+        "City":"RICHMOND"
+    },
+    {
+        "City":"ATLIN"
+    },
+    {
+        "City":"HAGENSBORG"
+    },
+    {
+        "City":"CASTLEGAR"
+    },
+    {
+        "City":"HAZELTON"
+    },
+    {
+        "City":"STEWART"
+    },
+    {
+        "City":"SALMON ARM"
+    },
+    {
+        "City":"ALEXIS CREEK"
+    },
+    {
+        "City":"COLDWATER LAKES"
+    },
+    {
+        "City":"TETE JAUNE CACHE"
+    },
+    {
+        "City":"POUCE COUPE"
+    },
+    {
+        "City":"MIDWAY"
+    },
+    {
+        "City":"KALEDEN"
+    },
+    {
+        "City":"JULIET PIT"
+    },
+    {
+        "City":"CLOVERDALE"
+    },
+    {
+        "City":"PARKSVILLE"
+    },
+    {
+        "City":"ZEBALLOS"
+    },
+    {
+        "City":"MASSET"
+    },
+    {
+        "City":"PORT COQUITLAM"
+    },
+    {
+        "City":"BELLA COOLA"
+    },
+    {
+        "City":"DECKER LAKE"
+    },
+    {
+        "City":"TROUT LAKE"
+    },
+    {
+        "City":"LARDEAU"
+    },
+    {
+        "City":"NAKUSP"
+    },
+    {
+        "City":"PEMBERTON"
+    },
+    {
+        "City":"PENDER ISLAND"
+    },
+    {
+        "City":"SHAWNIGAN LAKE"
+    },
+    {
+        "City":"SOOKE"
+    },
+    {
+        "City":"ALERT BAY"
+    },
+    {
+        "City":"GABRIOLA ISLAND"
+    },
+    {
+        "City":"HORNBY ISLAND"
+    },
+    {
+        "City":"COWICHAN LAKE"
+    },
+    {
+        "City":"QUADRA ISLAND"
+    },
+    {
+        "City":"TAHSIS"
+    },
+    {
+        "City":"TEXADA ISLAND"
+    },
+    {
+        "City":"PORT ALICE"
+    },
+    {
+        "City":"TOFINO"
+    },
+    {
+        "City":"SAYWARD"
+    },
+    {
+        "City":"AGASSIZ"
+    },
+    {
+        "City":"BOSTON BAR"
+    },
+    {
+        "City":"BOWEN ISLAND"
+    },
+    {
+        "City":"WHISTLER"
+    },
+    {
+        "City":"GIBSONS"
+    },
+    {
+        "City":"SALTSPRING ISLAND"
+    },
+    {
+        "City":"BELLA BELLA"
+    },
+    {
+        "City":"GRANISLE"
+    },
+    {
+        "City":"HUDSON'S HOPE"
+    },
+    {
+        "City":"NEW AIYANSH"
+    },
+    {
+        "City":"NEW HAZELTON"
+    },
+    {
+        "City":"TUMBLER RIDGE"
+    },
+    {
+        "City":"VALEMOUNT"
+    },
+    {
+        "City":"CLINTON"
+    },
+    {
+        "City":"LOGAN LAKE"
+    },
+    {
+        "City":"BARRIERE"
+    },
+    {
+        "City":"ELKFORD"
+    },
+    {
+        "City":"KASLO"
+    },
+    {
+        "City":"SALMO"
+    },
+    {
+        "City":"ENDERBY"
+    },
+    {
+        "City":"NEW DENVER"
+    },
+    {
+        "City":"LYTTON"
+    },
+    {
+        "City":"ARMSTRONG"
+    },
+    {
+        "City":"FALKLAND"
+    },
+    {
+        "City":"OSOYOOS"
+    },
+    {
+        "City":"PRINCETON"
+    },
+    {
+        "City":"CHASE"
+    },
+    {
+        "City":"TATLA LAKE"
+    },
+    {
+        "City":"TELEGRAPH CREEK"
+    },
+    {
+        "City":"CENTRAL SAANICH"
+    },
+    {
+        "City":"GOLDEN"
+    },
+    {
+        "City":"YAHK"
+    },
+    {
+        "City":"KEREMEOS"
+    },
+    {
+        "City":"SIDNEY"
+    },
+    {
+        "City":"SKIDEGATE"
+    },
+    {
+        "City":"FRASER LAKE"
+    },
+    {
+        "City":"SUMMERLAND"
+    },
+    {
+        "City":"PORT SIMPSON"
+    },
+    {
+        "City":"AHOUSAHT"
+    },
+    {
+        "City":"FORT WARE"
+    },
+    {
+        "City":"TSAY KEH DENE"
+    },
+    {
+        "City":"BOB QUINN LAKE"
+    },
+    {
+        "City":"KLEMTU"
+    },
+    {
+        "City":"MISSISSAUGA"
+    },
+    {
+        "City":"VIEW ROYAL"
+    },
+    {
+        "City":"WEST VANCOUVER"
+    },
+    {
+        "City":"SPUZZUM"
+    },
+    {
+        "City":"KIMBERLEY"
+    },
+    {
+        "City":"LANGFORD"
+    },
+    {
+        "City":"NORTH SAANICH"
+    },
+    {
+        "City":"AVOLA"
+    }
+]
